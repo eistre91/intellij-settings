@@ -1,0 +1,22 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '/home/favila/wcs/breeze_ehr/jib/src/breeze/jib/components/scanner_wrapper.cljs'" />
+    <option name="defaultScopeName" value="File '/home/favila/wcs/breeze_ehr/jib/src/breeze/jib/components/scanner_wrapper.cljs'" />
+    <option name="SEARCH_SCOPE" value="File '/home/favila/wcs/breeze_ehr/jib/src/breeze/jib/components/scanner_wrapper.cljs'" />
+    <option name="FILE_MASK" value="*.cljs" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.less</mask>
+      <mask>*.txt</mask>
+      <mask>*.cljs</mask>
+    </recentFileMasks>
+  </component>
+</application>
