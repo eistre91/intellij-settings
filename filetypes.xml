@@ -6,6 +6,7 @@
       <mapping ext="boot" type="Clojure" />
       <mapping ext="dtm" type="EDN" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="StoredCredential" type="PLAIN_TEXT" />
       <mapping pattern="defaults" type="PLAIN_TEXT" />
       <mapping pattern="storm-supervisor" type="PLAIN_TEXT" />
